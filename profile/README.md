@@ -1,17 +1,20 @@
-# Nove AI
+# Nove Lab
 
 ## Vision
 
-To build AI-native software engineering that are reproducible, verifiable, and grounded — not driven by vibes.
+To build AI-native software engineering systems that are reproducible, verifiable, and grounded — not driven by vibes.
 
 ## Mission
 
-Nove AI develops infrastructure and tools that bring rigor, determinism, and reproducibility to AI-assisted software engineering. We aim to transform how engineers work with AI — from intuition-driven outputs to systems that can be understood, verified, and trusted.
+Nove Lab develops infrastructure and tools that bring rigor, determinism, and reproducibility to AI-assisted software engineering.
+
+We aim to transform how engineers work with AI — from intuition-driven outputs to systems that can be understood, verified, and trusted.
 
 ## What We Do
 
-We create technologies that support the full spectrum of ai-native software engineering workflows, including testing, validation, and beyond (e.g., requirements, specifications, and system design).
-Our focus is on turning AI-generated artifacts into structured, controllable, and reproducible systems.
+We build technologies that support the full spectrum of AI-native software engineering workflows, including requirements engineering, specifications, system design, validation, testing, and beyond.
+
+Our focus is on transforming AI-generated artifacts into structured, controllable, and reproducible systems.
 
 ## Principles
 
@@ -22,4 +25,4 @@ Our focus is on turning AI-generated artifacts into structured, controllable, an
 
 ## Goal
 
-To become the foundational layer for AI-native software engineering — where every output can be reproduced, verified, and evolved with confidence.
+To become the foundational layer for trustworthy AI-native software engineering — where every output can be reproduced, verified, and evolved with confidence.
